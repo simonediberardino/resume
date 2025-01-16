@@ -26,7 +26,7 @@ Currently at Ermetix | Computer Science Student at Sapienza Università di Roma
 ### **Founder and Project Leader**  
 <span style="display: flex; align-items: flex-start;">
 <img src="https://raw.githubusercontent.com/simonediberardino/resume/main/assets/project_snrservers.png" alt="S&R Servers Logo" width="32" height="32" style="margin-right: 10px;">  
-<b>Project: S&R Servers</b> | Sep 2017 – Present  
+<h4 style="margin: 0;">Project: S&R Servers | Sep 2017 – Present</h4>
 </span>
 
 
