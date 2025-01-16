@@ -23,9 +23,7 @@ Currently at Ermetix | Computer Science Student at Sapienza Università di Roma
 - Engineered Android Antivirus and Device Policy Controller solutions for Mobile Threat Defense (MTD) and Unified Endpoint Management (UEM) using Kotlin and Android Jetpack tools (Compose, Retrofit, Room).  
 - Collaborated with a six-member engineering team, implementing Agile practices to optimize productivity and workflow.  
 
-## **Projects**  
-
-### **Founder and Project Leader**  
+### **Project: Founder and Software Engineer**  
 | <img src="https://raw.githubusercontent.com/simonediberardino/resume/main/assets/project_snrservers.png" alt="S&R Servers Logo" width="50" height="50"> | **Project: S&R Servers** <br> Sep 2017 – Present |
 |---|---|
 
@@ -35,7 +33,7 @@ Currently at Ermetix | Computer Science Student at Sapienza Università di Roma
 - Partnered with content creators to enhance global outreach.  
 - **Website:** [snrservers.com](http://snrservers.com)  
 
-### **Software Engineer**  
+### **Project: Founder and Software Engineer**  
 | <img src="https://raw.githubusercontent.com/simonediberardino/resume/main/assets/project_jbomb.png" alt="JBomb Logo" width="50" height="50"> | **Project: JBomb** <br> Apr 2023 – Dec 2024 |
 |---|---|
 
@@ -47,7 +45,7 @@ Currently at Ermetix | Computer Science Student at Sapienza Università di Roma
 - **Steam:** [Download](https://store.steampowered.com/app/3368640/JBomb/)  
 - **GitHub:** [Code Repository](https://github.com/simonediberardino/JBomb)  
 
-### **Android Developer**  
+### **Project: Founder and Software Engineer**  
 | <img src="https://raw.githubusercontent.com/simonediberardino/resume/main/assets/project_dib.png" alt="DIB Logo" width="50" height="50"> | **Project: DIB Car Launcher** <br> Jan 2022 – Sep 2023 |
 |---|---|
 
@@ -58,7 +56,7 @@ Currently at Ermetix | Computer Science Student at Sapienza Università di Roma
 - **Play Store:** [Download](https://play.google.com/store/apps/details?id=com.mini.infotainment)  
 - **GitHub:** [Code Repository](https://github.com/simonediberardino/DIB-Car-Launcher-Android)  
 
-### **Android Developer**  
+### **Project: Software Engineer**  
 | <img src="https://raw.githubusercontent.com/simonediberardino/resume/main/assets/project_briscola.png" alt="Briscola Logo" width="50" height="50"> | **Project: Briscola Plus!** <br> May 2021 – Jul 2022 |
 |---|---|
 
