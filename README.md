@@ -28,11 +28,13 @@ Currently at Ermetix | Computer Science Student at Sapienza Università di Roma
 <img src="https://raw.githubusercontent.com/simonediberardino/resume/main/assets/project_snrservers.png" alt="S&R Servers Logo" width="64" height="64" style="margin-right: 10px;">  
 <b>Project: S&R Servers</b> | Sep 2017 – Present  
 </span>
+
 - Founded **S&R Servers**, a platform delivering mods and servers for free FPS games, amassing over **300,000 registered players**.  
 - Scaled a two-person project into a global team of 20+ administrators managing a thriving gaming community.  
 - Directed end-to-end development: release management, scripting, UI design, and customer support.  
 - Partnered with content creators to enhance global outreach.  
-- **Website:** [snrservers.com](http://snrservers.com)  
+- **Website:** [snrservers.com](http://snrservers.com)
+
 
 ### **Software Engineer**  
 **Project: JBomb** | Apr 2023 – Dec 2024  
