@@ -18,20 +18,24 @@ Currently at Ermetix | Computer Science Student at Sapienza Università di Roma
 
 ## **Professional Experience**  
 
-| <img src="https://raw.githubusercontent.com/simonediberardino/resume/main/assets/project_snrservers.png" alt="S&R Servers Logo" width="50" height="50"> |  
+### **Android Developer**  
+**ERMETIX** | Remote | Oct 2022 – Present  
+- Engineered Android Antivirus and Device Policy Controller solutions for Mobile Threat Defense (MTD) and Unified Endpoint Management (UEM) using Kotlin and Android Jetpack tools (Compose, Retrofit, Room).  
+- Collaborated with a six-member engineering team, implementing Agile practices to optimize productivity and workflow.  
+
 ### **Founder and Project Leader**  
-**Project: S&R Servers** | Sep 2017 – Present  
+| <img src="https://raw.githubusercontent.com/simonediberardino/resume/main/assets/project_snrservers.png" alt="S&R Servers Logo" width="50" height="50"> | **Project: S&R Servers** <br> Sep 2017 – Present |
+|---|---|
 
 - Founded **S&R Servers**, a platform delivering mods and servers for free FPS games, amassing over **300,000 registered players**.  
 - Scaled a two-person project into a global team of 20+ administrators managing a thriving gaming community.  
 - Directed end-to-end development: release management, scripting, UI design, and customer support.  
 - Partnered with content creators to enhance global outreach.  
 - **Website:** [snrservers.com](http://snrservers.com)  
-|---|---|
 
-| <img src="https://raw.githubusercontent.com/simonediberardino/resume/main/assets/project_jbomb.png" alt="JBomb Logo" width="50" height="50"> |  
 ### **Software Engineer**  
-**Project: JBomb** | Apr 2023 – Dec 2024  
+| <img src="https://raw.githubusercontent.com/simonediberardino/resume/main/assets/project_jbomb.png" alt="JBomb Logo" width="50" height="50"> | **Project: JBomb** <br> Apr 2023 – Dec 2024 |
+|---|---|
 
 - Founded, Designed and developed **JBomb**, a 2D game available on Steam, entirely coded in Kotlin and Java without external libraries or game engines.  
 - Implemented game mechanics, rendering, networking, and sound design, while managing asset creation and campaign/multiplayer modes via custom backend servers.  
@@ -40,11 +44,10 @@ Currently at Ermetix | Computer Science Student at Sapienza Università di Roma
 - **Website:** [jbombthegame.com](http://jbombthegame.com)  
 - **Steam:** [Download](https://store.steampowered.com/app/3368640/JBomb/)  
 - **GitHub:** [Code Repository](https://github.com/simonediberardino/JBomb)  
-|---|---|
 
-| <img src="https://raw.githubusercontent.com/simonediberardino/resume/main/assets/project_dib.png" alt="DIB Car Launcher Logo" width="50" height="50"> |  
 ### **Android Developer**  
-**Project: DIB Car Launcher** | Jan 2022 – Sep 2023  
+| <img src="https://raw.githubusercontent.com/simonediberardino/resume/main/assets/project_dib.png" alt="DIB Logo" width="50" height="50"> | **Project: DIB Car Launcher** <br> Jan 2022 – Sep 2023 |
+|---|---|
 
 - Created an Android launcher tailored for car radios, integrating Spotify, Google Maps, and real-time smartphone notifications using TCP sockets.  
 - Delivered a multilingual app in Kotlin with customizable UI and a real-time media player/map interface.  
@@ -52,18 +55,16 @@ Currently at Ermetix | Computer Science Student at Sapienza Università di Roma
 - **Team:** Individual  
 - **Play Store:** [Download](https://play.google.com/store/apps/details?id=com.mini.infotainment)  
 - **GitHub:** [Code Repository](https://github.com/simonediberardino/DIB-Car-Launcher-Android)  
-|---|---|
 
-| <img src="https://raw.githubusercontent.com/simonediberardino/resume/main/assets/project_briscola.png" alt="Briscola Logo" width="50" height="50"> |  
 ### **Android Developer**  
-**Project: Briscola Plus!** | May 2021 – Jul 2022  
+| <img src="https://raw.githubusercontent.com/simonediberardino/resume/main/assets/project_briscola.png" alt="Briscola Logo" width="50" height="50"> | **Project: Briscola Plus!** <br> May 2021 – Jul 2022 |
+|---|---|
 
 - Developed **Briscola Plus!**, a multiplayer card game in Java featuring AI, online play, live text chat, user stats, customizable profiles, and an in-game shop.  
 - Released in English and Italian on Google Play, achieving **10,000+ downloads**.  
 - **Team:** 2 members  
 - **Play Store:** [Download](https://play.google.com/store/apps/details?id=game.danielesimone.briscola)  
 - **GitHub:** [Code Repository](https://github.com/simonediberardino/BriscolaPlusAndroid)  
-|---|---|
 
 ---
 
