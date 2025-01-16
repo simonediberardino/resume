@@ -24,8 +24,8 @@ Currently at Ermetix | Computer Science Student at Sapienza Università di Roma
 - Collaborated with a six-member engineering team, implementing Agile practices to optimize productivity and workflow.  
 
 ### **Founder and Project Leader**  
-<span style="display: flex; align-items: center;">
-<img src="https://raw.githubusercontent.com/simonediberardino/resume/main/assets/project_snrservers.png" alt="S&R Servers Logo" width="64" height="64" style="margin-right: 10px;">  
+<span style="display: flex; align-items: top;">
+<img src="https://raw.githubusercontent.com/simonediberardino/resume/main/assets/project_snrservers.png" alt="S&R Servers Logo" width="32" height="32" style="margin-right: 10px;">  
 <b>Project: S&R Servers</b> | Sep 2017 – Present  
 </span>
 
