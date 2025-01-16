@@ -25,8 +25,8 @@ Currently at Ermetix | Computer Science Student at Sapienza Università di Roma
 
 ### **Founder and Project Leader**  
 <span style="display: flex; align-items: flex-start;">
-<img src="https://raw.githubusercontent.com/simonediberardino/resume/main/assets/project_snrservers.png" alt="S&R Servers Logo" width="50" height="50" style="margin-right: 10px;">  
 <h4 style="margin: 0;">Project: S&R Servers | Sep 2017 – Present</h4>
+<img src="https://raw.githubusercontent.com/simonediberardino/resume/main/assets/project_snrservers.png" alt="S&R Servers Logo" width="50" height="50" style="margin-right: 10px;">  
 </span>
 
 
@@ -42,6 +42,7 @@ Currently at Ermetix | Computer Science Student at Sapienza Università di Roma
 <h4 style="margin: 0;">Project: JBomb | Apr 2023 – Dec 2024</h4>
 <img src="https://raw.githubusercontent.com/simonediberardino/resume/main/assets/project_jbomb.png" alt="JBomb Logo" width="50" height="50" style="margin-right: 10px;">  
 </span>
+
 - Founded, Designed and developed **JBomb**, a 2D game available on Steam, entirely coded in Kotlin and Java without external libraries or game engines.  
 - Implemented game mechanics, rendering, networking, and sound design, while managing asset creation and campaign/multiplayer modes via custom backend servers.  
 - Gained expertise in software engineering, including MVC architecture and robust system design.  
