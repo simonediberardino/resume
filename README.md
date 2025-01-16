@@ -23,6 +23,8 @@ Currently at Ermetix | Computer Science Student at Sapienza Università di Roma
 - Engineered Android Antivirus and Device Policy Controller solutions for Mobile Threat Defense (MTD) and Unified Endpoint Management (UEM) using Kotlin and Android Jetpack tools (Compose, Retrofit, Room).  
 - Collaborated with a six-member engineering team, implementing Agile practices to optimize productivity and workflow.  
 
+## **Projects**  
+
 ### **Founder and Project Leader**  
 | <img src="https://raw.githubusercontent.com/simonediberardino/resume/main/assets/project_snrservers.png" alt="S&R Servers Logo" width="50" height="50"> | **Project: S&R Servers** <br> Sep 2017 – Present |
 |---|---|
