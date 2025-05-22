@@ -2,7 +2,7 @@
 **Software Engineer**  
 Currently at Ermetix | Computer Science Student at Sapienza Università di Roma  
 
-📍 Latina, Lazio, Italy  
+Latina, Lazio, Italy  
 [LinkedIn](https://www.linkedin.com/in/simone-di-berardino-77662721a/) | [GitHub](https://github.com/username) | simonediberardino.bus@gmail.com
 
 ---
@@ -11,7 +11,7 @@ Currently at Ermetix | Computer Science Student at Sapienza Università di Roma
 - **Programming Languages:** Kotlin, Java, Python, C#, C++, Assembly, SQL, JavaScript, HTML, CSS, Bash  
 - **Android Development:** Jetpack Compose, Retrofit, Room, Firebase  
 - **Game Development:** Unity  
-- **Tools:** Git, Docker, YouTrack  
+- **Tools:** Git, GitLab, YouTrack  
 - **Other Skills:** Agile methodologies  
 
 ---
